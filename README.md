@@ -1,6 +1,6 @@
 ## 👋 Hi there! I'm Rocio!
 
-I'm a Biomedical Engineer and AI scientist, with a special focus on creating tech solutions that make a difference.
+I'm an AI and Biomedical Engineer, with a special focus on creating tech solutions that make a difference.
 
 ### My Expertise
 
@@ -10,7 +10,8 @@ I'm a Biomedical Engineer and AI scientist, with a special focus on creating tec
 
 ### Projects & Current Focus
 
-- **DermieAI** - Currently exploring fairness and bias mititgation systems for real world deployment of an AI-powered skin lesion triage system
+- **Pixels2Physiology** - Automatic extraction and digitalisation of paper ECG records into time-series data. 
+- **DermieAI** - Fairness-aware, ethical and equitable skin cancer detection for real world deployment of an AI-powered triage system
 - **In-ear EEG** - Seizure detection systems for wearable brain monitoring devices
 - **X-Ray Pneumonia Detection** - CNN achieving 97% precision for automated medical diagnosis
 - **Neural Decoder** - Real-time neural activity mapping for prosthetic limb control
